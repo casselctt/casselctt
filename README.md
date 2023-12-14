@@ -1,2 +1,2 @@
 # 🛰️ Loja de bots discord 🌐
-📁 Projetos | 🎓 Wiki
+📁 Projetos | 🎓 Wiki | 🤖 Gerador de Bot
